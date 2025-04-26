@@ -1,0 +1,53 @@
+Sure! Here's a clean, tech-stack-free structure for the **SheetWise** project — organized for **Cursor**, with both frontend and backend sections, keeping the minimalist and green-white aesthetic in mind:
+
+---
+
+## 🧠 Project: `sheetwise`
+
+### ✨ Overview
+A clean, intuitive web tool that lets users upload Excel, CSV, or Google Sheets, ask questions about the data using natural language, and receive both analysis and visual visualizations — all wrapped in a visually calming mint green (#98FF98) and white interface inspired by Ocean Sentinel.
+
+---
+
+## 🌿 Frontend
+
+### Features
+- clean home page with title, subtle animation, and upload prompt  
+- file uploader (accepts CSV, XLSX, Google Sheets link)  
+- simple natural language input bar ("ask about your data")  
+- real-time responses in a chat-like interface  
+- dynamic data table preview after upload  
+- visualization block for charts and graphs  
+- export options for summary or cleaned datasets  
+- subtle design transitions, shadows, and corner rounding  
+- all text in lowercase  
+- clean visual hierarchy with green and white only  
+
+---
+
+## 📊 Backend
+
+### Capabilities
+- parse and clean uploaded sheet data  
+- detect and handle nulls, date formats, numeric inconsistencies  
+- understand user queries and extract intent (e.g., "show average sales in 2023")  
+- map intent to structured operations (filtering, grouping, summarizing, plotting)  
+- respond with text summaries or charts (bar, line, pie, scatter, etc.)  
+- support multiple queries in a session  
+- maintain lightweight logs for analysis  
+- handle both metric-based and insight-based queries  
+- visualization output returns embeddable chart components  
+- natural language response generation (e.g., "Here's the sales trend by month.")  
+
+---
+
+## 🎯 Sample User Queries
+- "what’s the total revenue this year?"  
+- "show me a chart of expenses by department"  
+- "how many missing values are in column b?"  
+- "summarize this data for me"  
+- "give me top 5 products by sales"  
+
+---
+
+Would you like me to generate the UI layout in text form as well?

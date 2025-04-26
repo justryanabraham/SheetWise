@@ -1,0 +1,29 @@
+date,product,category,region,sales,quantity,price
+2023-01-15,Laptop,Electronics,North,1299.99,5,259.99
+2023-01-18,Desktop PC,Electronics,South,2450.50,3,816.83
+2023-01-22,Smartphone,Electronics,East,899.95,10,89.99
+2023-01-25,Tablet,Electronics,West,649.95,8,81.24
+2023-02-03,Monitor,Electronics,North,349.99,12,29.16
+2023-02-10,Headphones,Electronics,South,129.95,25,5.19
+2023-02-15,Keyboard,Electronics,East,89.99,30,2.99
+2023-02-20,Mouse,Electronics,West,49.99,40,1.24
+2023-03-05,Printer,Electronics,North,199.99,7,28.57
+2023-03-12,Scanner,Electronics,South,149.95,5,29.99
+2023-03-18,External HD,Electronics,East,129.99,15,8.66
+2023-03-25,USB Drive,Electronics,West,29.99,50,0.59
+2023-04-02,Office Chair,Furniture,North,299.99,8,37.49
+2023-04-09,Desk,Furniture,South,499.95,5,99.99
+2023-04-15,Bookshelf,Furniture,East,199.99,12,16.66
+2023-04-22,Filing Cabinet,Furniture,West,249.95,6,41.65
+2023-05-01,Sofa,Furniture,North,899.99,2,449.99
+2023-05-08,Coffee Table,Furniture,South,199.95,7,28.56
+2023-05-15,End Table,Furniture,East,149.99,10,14.99
+2023-05-22,Dining Table,Furniture,West,599.95,3,199.98
+2023-06-01,Notebook,Office Supplies,North,4.99,100,0.04
+2023-06-08,Pens (Pack),Office Supplies,South,9.95,75,0.13
+2023-06-15,Stapler,Office Supplies,East,14.99,35,0.42
+2023-06-22,Paper Clips,Office Supplies,West,2.99,200,0.01
+2023-07-01,Printer Paper,Office Supplies,North,19.99,50,0.39
+2023-07-08,Sticky Notes,Office Supplies,South,8.95,80,0.11
+2023-07-15,Binders,Office Supplies,East,12.99,45,0.28
+2023-07-22,Markers,Office Supplies,West,7.99,60,0.13
